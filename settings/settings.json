@@ -1,0 +1,27 @@
+{
+  "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Panda Syntax",
+  // Configura tamanho e família da fonte
+  "editor.fontSize": 15,
+  "editor.lineHeight": 24,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+  "editor.rulers": [80, 120],
+  "prettier.eslintIntegration": true,
+  // Aplica um sinal visual na esquerda da linha selecionada
+  "editor.renderLineHighlight": "gutter",
+  // Aumenta a fonte do terminal
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  // Define o tema dos ícones na sidebar
+  "workbench.iconTheme": "vs-nomo-dark",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "extensions.ignoreRecommendations": false,
+  "editor.wordWrap": "on",
+  "window.menuBarVisibility": "default"
+}
